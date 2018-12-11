@@ -77,6 +77,5 @@ canvas {
 }
 
 #temperature {
-	font-size: 100px;
-  text-align:right;
+	font-size: 200px;
 }
